@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ImgurApp/static/css/main.27b7feb4.chunk.css",
+    "main.js": "/ImgurApp/static/js/main.c4de32cc.chunk.js",
+    "main.js.map": "/ImgurApp/static/js/main.c4de32cc.chunk.js.map",
+    "runtime-main.js": "/ImgurApp/static/js/runtime-main.7f68ce8f.js",
+    "runtime-main.js.map": "/ImgurApp/static/js/runtime-main.7f68ce8f.js.map",
+    "static/js/2.62466692.chunk.js": "/ImgurApp/static/js/2.62466692.chunk.js",
+    "static/js/2.62466692.chunk.js.map": "/ImgurApp/static/js/2.62466692.chunk.js.map",
+    "index.html": "/ImgurApp/index.html",
+    "static/css/main.27b7feb4.chunk.css.map": "/ImgurApp/static/css/main.27b7feb4.chunk.css.map",
+    "static/js/2.62466692.chunk.js.LICENSE.txt": "/ImgurApp/static/js/2.62466692.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f68ce8f.js",
+    "static/js/2.62466692.chunk.js",
+    "static/css/main.27b7feb4.chunk.css",
+    "static/js/main.c4de32cc.chunk.js"
+  ]
+}

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MultimediaList test should show a image in multimedia 1`] = `
+<Fragment>
+  <img
+    className="card-img"
+    src="https://localhost/something.jpg"
+    style={
+      Object {
+        "margin-bottom": "3%",
+      }
+    }
+  />
+  <p>
+    some description
+  </p>
+</Fragment>
+`;

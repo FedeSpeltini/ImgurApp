@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` debe de mostrar el componente correctamente 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "maxWidth": 540,
+    }
+  }
+>
+  <div
+    className="row no-gutters"
+  >
+    <div
+      className="col-md-7"
+    >
+      <img
+        className="card-img"
+        height="250"
+        src="https://localhost/something.jpg"
+        width="400"
+      />
+    </div>
+    <div
+      className="col-md-8"
+    >
+      <div
+        className="card-body"
+      >
+        <h5
+          className="card-title"
+        >
+           
+          Some Title
+           
+        </h5>
+        <Link
+          to={
+            Object {
+              "pathname": "./details",
+              "state": Object {
+                "boolVideo": false,
+                "description": "some description",
+                "dislikes": 4,
+                "likes": 10,
+                "titleValue": "Some Title",
+                "urlValue": Object {
+                  "link": "https://localhost/something.jpg",
+                  "type": "card-img",
+                },
+              },
+            }
+          }
+        >
+          Details
+        </Link>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`should show one picture debe de mostrar el componente correctamente 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+  style={
+    Object {
+      "maxHeight": 400,
+      "maxWidth": 400,
+    }
+  }
+>
+  <div
+    className="row no-gutters"
+  >
+    <div
+      className="col-md-7"
+    >
+      <img
+        className="card-img"
+        height="250"
+        src="https://localhost/something.jpg"
+        width="400"
+      />
+    </div>
+    <div
+      className="col-md-8"
+    >
+      <div
+        className="card-body"
+      >
+        <h5
+          className="card-title"
+        >
+           
+          Some Title
+           
+        </h5>
+        <Link
+          to={
+            Object {
+              "pathname": "./details",
+              "state": Object {
+                "boolVideo": false,
+                "description": "some description",
+                "dislikes": 4,
+                "likes": 10,
+                "score": undefined,
+                "titleValue": "Some Title",
+                "urlValue": Object {
+                  "link": "https://localhost/something.jpg",
+                  "type": "card-img",
+                },
+              },
+            }
+          }
+        >
+          Details
+        </Link>
+      </div>
+    </div>
+  </div>
+</div>
+`;

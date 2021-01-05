@@ -14,6 +14,7 @@ export const DashboardRoutes = () => {
                 <Switch>
 
                     <Route exact path="/" component={ ImageList } />
+                    <Route exact path="/ImgurApp" component={ ImageList } />
                     <Route exact path="/details/" component={ ImageScreen } />
 
                 </Switch>

@@ -8,7 +8,8 @@ El propósito de esta App es crear una galería en donde se vean las publicacion
 **Nota:** Estuve viendo que últimamente la aplicación falla al iniciar.\
 Estuve revisando y parece que es un problema externo, relacionado a la API de la red social
 
-´error:'Imgur is temporarily over capacity. Please try again later.'´ 
+ ### `error:'Imgur is temporarily over capacity. Please try again later.'`
+
 
 No tengo forma de solucionarlo, **debido a que la API no es mía**
 

@@ -3,7 +3,7 @@ export const getImages = async (section) => {
     //https://api.imgur.com/3/gallery/hot/viral/0.json
     //const url = `https://api.imgur.com/3/gallery/top/viral/0.json`;
     const url = `https://api.imgur.com/3/gallery/${ encodeURI( section.radioSection ) }/viral/0.json?showViral=${ encodeURI( section.showViral ) }`;
-    const headers = { 'Authorization': 'Client-ID eabefd66b1cee3d' }
+    const headers = { 'Authorization': 'Client-ID 3472b8e78e47900' }
     const resp = await fetch( url, { headers } );
     const { data } = await resp.json();
 

@@ -25,6 +25,7 @@ https://english.api.rakuten.net/imgur/api/Imgur/discussions/4947/Getting-constan
 - Al momento de realizar esta app, no tenía mucho conocimiento en Redux, por lo que no lo utilicé
 - Todas las rutas son públicas, tendría que haber puesto algunas privadas
 - Utilicé muy mal el CSS, llegando a plasmar gran parte en sobre el propio código
+- En su momento nunca contemplé un error de la API (error de novato), y no devuelvo ningún mensaje comentando que **no soy responsable del error**
 
 
 Si desean ver un trabajo con unos estilos decentes, pueden mirar mi repo de JournalApp (la app sigue en proceso de desarrollo) 
